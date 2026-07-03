@@ -14,12 +14,12 @@ The dataset contains 100,000 ride booking records for Bengaluru covering one mon
 - Analyze customer and driver ratings
 - Build interactive Power BI dashboards
 - Solve business problems using SQL
-- 
+ 
 ## Tools & Technologies
 - SQL (MySQL)
 - Microsoft Excel
 - Power BI
-- 
+ 
 ## Dataset Information
 Dataset Size: 100,000 Rows
 
