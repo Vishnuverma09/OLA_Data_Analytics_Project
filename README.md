@@ -118,10 +118,8 @@ Dataset Size: 100,000 Rows
 - Power BI dashboards
 - Business KPIs
 - Clean project structure
-  - Portfolio-ready project
+- Portfolio-ready project
 
-  ## Author
-**Vishnukant Verma**
 
 ## Author
 **Vishnukant Verma**
